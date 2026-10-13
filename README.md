@@ -1,24 +1,22 @@
 # Voice → Text
 
-Компактное десктопное приложение для голосового ввода: нажимаете кнопку, говорите — текст сам печатается в активном окне.
+A compact desktop application for voice input: press the button, speak — the text is automatically typed in the active window.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![PySide6](https://img.shields.io/badge/UI-PySide6-41cd52)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
----
+## Features
 
-## Возможности
-
-- 🎙 Голосовой ввод в любое активное окно (редактор, браузер, мессенджер)
-- 🌙 Тёмная минималистичная тема
-- 🔍 Автоматический поиск микрофона
-- 🧹 Отсеивание выходных устройств и дублей
-- 📜 История распознанных фраз с кнопкой очистки
-- 🖱 Управление одной кнопкой — никаких хоткеев
+- 🎙 Voice input in any active window (editor, browser, messenger)
+- 🌙 Dark minimalist theme
+- 🔍 Automatic microphone search
+- 🧹 Filtering out device outputs and duplicates
+- 📜 History of recognized phrases with a clear button
+- 🖱 One‑button control — no hotkeys
 
 ---
 
-## Лицензия
+## License
 
-MIT — используйте, изменяйте и распространяйте свободно.
+MIT — use, modify, and distribute freely.
