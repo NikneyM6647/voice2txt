@@ -19,26 +19,7 @@
 
 ---
 
-## Требования
 
-- Windows 10/11
-- Python 3.10 или новее
-- Интернет (используется Google Speech Recognition)
-
----
-
-## Установка
-
-```powershell
-python -m pip install PySide6 SpeechRecognition pyaudio keyboard
-```
-
-Если `pyaudio` не ставится, есть два обходных пути:
-
-```powershell
-python -m pip install pipwin
-python -m pipwin install pyaudio
-```
 
 | PySide6 | Графический интерфейс |
 | SpeechRecognition | Обёртка над Google Speech API |
