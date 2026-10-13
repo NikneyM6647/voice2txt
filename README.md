@@ -22,9 +22,13 @@
 
 
 | PySide6 | Графический интерфейс |
+
 | SpeechRecognition | Обёртка над Google Speech API |
+
 | PyAudio | Запись с микрофона |
+
 | keyboard | Эмуляция нажатий клавиш |
+
 
 
 ## Лицензия
